@@ -1,0 +1,5 @@
+.env
+.vscode
+node_modules
+local.http
+src/controllers/infoAccount.controller.js
